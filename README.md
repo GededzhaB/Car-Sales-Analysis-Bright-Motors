@@ -1,9 +1,9 @@
-# Car-Sales-Analysis-Bright-Motors
+#Car-Sales-Analysis-Bright-Motors
  Project Overview
 This project was completed as part of the BrightLearn Data Analytics Case Study, where I assumed the role of a Junior Data Analyst at Bright Motors — a dealership that has recently appointed a new Head of Sales.
 The goal was to analyse historical car sales data and deliver actionable insights to support strategic decisions around revenue growth, inventory optimisation, and dealership expansion.
 
-# Objectives
+#Objectives
 
 Identify which car makes and models generate the most revenue
 Explore the relationship between price, mileage, and year of manufacture
@@ -41,7 +41,7 @@ Task 4 — Presentation
 
 Delivered a concise, visually appealing presentation summarising all findings and strategic recommendations for the new Head of Sales.
 
-#Recommendations
+Recommendations
 
 Expand dealership presence in Gauteng and Western Cape to capitalise on high-volume markets.
 Stock more high-margin SUVs and sedans from top-performing makes to maximise revenue per unit.
